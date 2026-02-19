@@ -410,7 +410,7 @@ Documentação completa das decisões arquiteturais:
 
 ## 👥 Desenvolvedor
 
-Sistema desenvolvido como desafio técnico, demonstrando:
+Sistema desenvolvido, demonstrando:
 - ✅ Clean Architecture / DDD
 - ✅ CQRS + Event Sourcing
 - ✅ Testes automatizados
